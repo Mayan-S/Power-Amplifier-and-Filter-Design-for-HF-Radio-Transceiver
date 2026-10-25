@@ -14,7 +14,7 @@ It also has to know when to stay quiet. The radio shares one antenna between tra
 | :--- | :--- |
 | Output power | 1–10 W CW into a 50 Ω resistive load |
 | Total harmonic distortion (THD) | < 10 % at 14 MHz |
-| Operating frequency range | 8–16 MHz |
+| Operating frequency range | 8 - 16 MHz |
 | Input signal | Differential, minimum 1 V<sub>pp</sub> |
 | Enable control | Active-low, LVTTL 3.3 V |
 | Supply voltages | +5 V and +12 V |
